@@ -1,1 +1,6 @@
-﻿# 0032 VoHoaiDuong
+﻿#Nhom 12
+ 0032 VoHoaiDuong
+ 1197 Huynh Quoc Trung
+ 0620 Le Nhat Minh
+ 1689 Tran Nhat Minh
+ 2321 Nguyen Ba Minh Quan
